@@ -12,7 +12,6 @@
 
 ![](./vein02.png)
 
-
 3. There are changes in leaf area in both species. 
 	-	To a larger degree in M82.
 
@@ -22,11 +21,11 @@
 
 ###Background Conclusions: Does this make sense so far?
 
-In *Arabidopsis*: populations in exposed areas generally have more of a shade response than populations in wooded areas.   This hypothesized to be because those populations that are in constant shade do not have a reason to adapt a plasticity response to shade.
+In *Arabidopsis*: populations in exposed areas generally have more of a shade response than populations in wooded areas.   This hypothesized could be because those populations that are in constant shade do not have a reason to adapt a plasticity response to shade.
 
-In Tomato: In accessions from regions that have low foliar shade (sunny) have higher shade responses (leaf length) in their oldest leaves compared with younger leaves.  
+In Tomato: Accessions from regions that have low foliar shade (sunny) have higher shade responses (leaf length) in their oldest leaves compared with younger leaves.  
 
-High foliar shade, like forests, the plants have a higher shade avoidance responses (leaf length) in their younger leaves. 
+High foliar shade, like forests, the plants have a higher shade avoidance responses (leaf length) in their younger leaves. (Chitwood et al., 2013).
 
 ![](./vein04.png)
 
@@ -34,7 +33,7 @@ High foliar shade, like forests, the plants have a higher shade avoidance respon
 
 Minor vein density is different depending on the region on the leaf you sample. 
 
-**M82**: There is a significant difference in vein density  between middle and top regions and to a greater extent between top and bottom.  Therefore, density is highest in the proximal regions. It should also be noted that leaf area is greatest in the proximal region, therefore this appears to be a size independent result.  Likely reflecting the distal to proximal differentiation wave. 
+**M82**: There is a significant difference in vein density between middle and top regions and to a greater extent between top and bottom.  Therefore, density is highest in the proximal regions. It should also be noted that leaf area is greatest in the proximal region, therefore this appears to be a size independent result.  Likely reflecting the distal to proximal differentiation wave. 
 
 **penn**: There is only a significant difference between top and bottom. Again with the proximal minor vein density being higher than top. 
 
@@ -44,13 +43,13 @@ Also there are only differences in the proximal region when looking at simulated
 
 ![](./vein06.png)
 
-**Conclusion 2**: So overall you see a higher vein density in the proximal region, but to a more extreme in m82. When you look at the 
+**Conclusion 2**: So overall you see a higher vein density in the proximal region, but to a greater extent in m82.
 
 **Does this possibly reflect that vein development is occurring longer in the proximal region?**    How do I test this?  Brainstorm.  
 
 ##Part 3 - Density vs Area
 
-**Q:** The big question is to ask if there is the difference in vein density maintained by just expanding the vein area?
+**Q:** Is the difference in vein density maintained by just expanding the vein area?
 
 **M82**
 
@@ -70,23 +69,23 @@ It appears as though penn may be capable of responding to light differences thro
 
 ##Conclusions
 
-- There is a difference in leaf density between lines.
-- There is a difference between treatments within each line.
-- M82 modifies leaflet density by shape.
+- There is a difference in leaf density between lines: M82 has higher vein density.
+- There is a difference between treatments within each line:  M82 is capable of responding to sun and shade better. 
+- M82 modifies leaflet density by shape? Or does vein formation modify leaf shape?  Chicken egg?  Is there a way to get past this?
 - Penn may be modifying by increasing density more than shape.
 - *Must get a better idea of minor vein density timing. 
-Confocal?*
-- There is a negative correlation between circularity and vein density. 
+Confocal?*  What would be looking for explicitly?
+- There is a correlation between circularity and vein density. 
+    + but how? Re-do analysis.  Maybe incorporate Ellipitical Forier Analysis? 
 
 To determine if a loci may be responsible for the differences in vein density I need to figure out the most appropriate way to statistically analyze. 
 More sampling?
-
 
 ##Part 4 - DR5::Venus 
 
 ![](./vein09.png)
 
-###Questions  Since auxin is the first precursor to vasculature formation…
+###Questions  Since auxin is the first precursor to vasculature formation.
 
 Are there differences in auxin localization patterns which explain leaf differences in:
 
@@ -122,6 +121,8 @@ How does auxin induce thicker vasculature?
 -  Is it possible to do a light experiment under the confocal?  What would be the question that we would be asking?
 -  Is it possible to do a light experiment in more species?  What would be the question?
 - Is there a way to increase auxin?  Maybe applications?  Increase Midvein? formation? 
+- Maybe we can look at DR5::VENUS in Sun vs. Shade. Would the midvein florescence be greater?  Is there a way to quantify?  
+- How does DR5::VENUS change in response to light?  Is there anyway to get at this?????!!!!! 
 
 
 
